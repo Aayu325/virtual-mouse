@@ -20,7 +20,8 @@ This project uses **MediaPipe**, **OpenCV**, and **PyAutoGUI** to track your han
 
 ## 📸 Live Download Link
 
-🌐 [Live Demo](https://virtual-mouse-web.vercel.app/)  
+🌐 [Website To Download](https://virtual-mouse-web.vercel.app/)
+🌐 [Github Link Of Website](https://github.com/Aayu325/virtual-mouse-web)
 
 ---
 
